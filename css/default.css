@@ -6,20 +6,20 @@
 }
 
 body{
-  background-color: gray
+  background-color: gray;
 }
 header{
-  background-color: orange
+  background-color: orange;
 }
 #main1{
-  background-color: green
+  background-color: green;
 }
 #main2{
-  background-color: yellow
+  background-color: yellow;
 }
 aside{
-  background-color: blue
+  background-color: blue;
 }
 footer{
-  background-color: purple
+  background-color: purple;
 }
