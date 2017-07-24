@@ -32,25 +32,6 @@ li{
   clear: both;
 }
 
-#main{
-  width: 798px;
-  margin: 40px auto;
-  padding:40px 80px;
-  border: gree 1px solid;
-  background-color: white;
-}
-
-.photo{
-  float: left;
-  margin-right: 30px;
-}
-
-.oyakodonn:after{
-  content: "";
-  clear: both;
-  display: block;
-}
-
 footer{
   background-repeat: no-repeat, no-repeat;
   background-size: 100px 100px,contain;
